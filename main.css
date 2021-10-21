@@ -1,0 +1,32 @@
+:root{
+    --PT_Sans: 'PT Sans', sans-serif;
+    --Playfair: 'Playfair Display', serif;
+}
+
+.but{
+    width: 136px;
+    height: 80px;
+    text-align: center;
+    font-size: 14px;
+}
+.block_2{
+    width: 1920px;
+    height: 810px;
+    background: url("/png/bg1.png");
+}
+.but_png{
+    width: 62px;
+    height: 80px;
+    text-align: center;
+}
+
+.small_head{
+    background-color: black;
+    color: #969696;
+    font-family: var(--PT_Sans);
+}
+.block1{
+    background-color: #0F0F0F;
+    color: white;
+    font-family: var(--PT_Sans);
+}
