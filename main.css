@@ -9,11 +9,7 @@
     text-align: center;
     font-size: 14px;
 }
-.block_2{
-    width: 1920px;
-    height: 810px;
-    background: url("/png/bg1.png");
-}
+
 .but_png{
     width: 62px;
     height: 80px;
@@ -29,4 +25,24 @@
     background-color: #0F0F0F;
     color: white;
     font-family: var(--PT_Sans);
+}
+
+.bg-black{
+    background-color:black ;
+}
+.bg-whitly-black{
+    background-color: #0F0F0F;
+}
+
+.px1289{
+    height: 1289px;
+}
+
+.ggg{
+    background-image: url("/png/bg1.png");
+    background-color: aqua;
+}
+.vvv{
+    background-color: aquamarine;
+    background-image: url("/png/PORTEN.png");
 }
